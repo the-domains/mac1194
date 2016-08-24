@@ -1,0 +1,14 @@
+layout_spectrum: 0.40364266093820333
+typography_spectrum: 0.8397877467796206
+color:
+  brandStrength: 0.3933936601970345
+  lightness: 0.9957759790122509
+  saturation: 0.9011013940908015
+  rhythmicContrast: 0.9722553191240877
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: mac1194
